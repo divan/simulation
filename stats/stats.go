@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/status-im/simulation/propagation"
+	"github.com/divan/simulation/propagation"
 )
 
 // Stats represents stats data for given simulation log.
