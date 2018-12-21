@@ -1,6 +1,6 @@
 # P2P messaging simulation toolkit
 ---
-This repository holds different simulators for exploring and researching p2p networks and messaging related to Status.
+This repository holds different simulators for exploring and researching p2p networks and messaging.
 
 Original intent of these simulators is to provide stats and resulting traces/logs for further analysis and visualization.
 
@@ -38,7 +38,7 @@ Original intent of these simulators is to provide stats and resulting traces/log
 As a backend for the visualization frontend:
 
 ```
-go get github.com/status-im/simulation/cmd/propagation_server
+go get github.com/divan/simulation/cmd/propagation_server
 
 propagation_server
 ```
@@ -46,7 +46,7 @@ propagation_server
 As a commandline tool:
 
 ```
-go get github.com/status-im/simulation/cmd/propagation_simulator
+go get github.com/divan/simulation/cmd/propagation_simulator
 // copy network.json to current directory
 propagation_simulator --help
 ```

@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/divan/graphx/graph"
-	"github.com/status-im/simulation/propagation"
+	"github.com/divan/simulation/propagation"
 )
 
 // Simulator is responsible for running propagation simulation.

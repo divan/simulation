@@ -8,7 +8,7 @@ This simulator implements command for running different simulation implementatio
 # Installation
 
 ```
-go get github.com/status-im/simulation/cmd/propagation_simulator
+go get github.com/divan/simulation/cmd/propagation_simulator
 ```
 
 # Usage

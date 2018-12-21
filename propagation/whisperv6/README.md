@@ -1,4 +1,4 @@
-# whisperv6 [![GoDoc](https://godoc.org/github.com/status-im/simulation/propagation/whisperv6?status.png)](https://godoc.org/github.com/status-im/simulation/propagation/whisperv6)
+# whisperv6 [![GoDoc](https://godoc.org/github.com/divan/simulation/propagation/whisperv6?status.png)](https://godoc.org/github.com/divan/simulation/propagation/whisperv6)
 Package whisperv6 implements message propagation simulator based on the go-ethereum (geth) implementation of
 Whisper v6 protocol.
 

@@ -9,6 +9,7 @@ import (
 	"time"
 
 	"github.com/divan/graphx/graph"
+	"github.com/divan/simulation/propagation"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/node"
@@ -16,7 +17,6 @@ import (
 	"github.com/ethereum/go-ethereum/p2p/simulations"
 	"github.com/ethereum/go-ethereum/p2p/simulations/adapters"
 	whisper "github.com/ethereum/go-ethereum/whisper/whisperv6"
-	"github.com/status-im/simulation/propagation"
 )
 
 // Simulator simulates WhisperV6 message propagation through the

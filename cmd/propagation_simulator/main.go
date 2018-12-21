@@ -6,8 +6,8 @@ import (
 	"os"
 
 	"github.com/divan/graphx/formats"
+	"github.com/divan/simulation/stats"
 	gethlog "github.com/ethereum/go-ethereum/log"
-	"github.com/status-im/simulation/stats"
 )
 
 func main() {

@@ -14,7 +14,7 @@ Server expects a network topology as an input, and returns propagation log data.
 # Installation
 
 ```
-go get github.com/status-im/simulation/cmd/propagation_server
+go get github.com/divan/simulation/cmd/propagation_server
 ```
 
 # Usage

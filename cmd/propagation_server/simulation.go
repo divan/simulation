@@ -8,9 +8,9 @@ import (
 	"time"
 
 	"github.com/divan/graphx/graph"
-	"github.com/status-im/simulation/propagation"
-	"github.com/status-im/simulation/propagation/gossip"
-	"github.com/status-im/simulation/propagation/whisperv6"
+	"github.com/divan/simulation/propagation"
+	"github.com/divan/simulation/propagation/gossip"
+	"github.com/divan/simulation/propagation/whisperv6"
 )
 
 // Simulation represents single simulation.
